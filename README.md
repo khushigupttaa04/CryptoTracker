@@ -1,5 +1,4 @@
 # CryptoTracker
-# CryptoTracker
 
 ## Overview
 
